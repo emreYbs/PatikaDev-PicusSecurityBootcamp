@@ -9,7 +9,57 @@ These challenges lead directly to my next point.
 and there are some major problems security teams need to overcome in using EDRs.
 
 - First of all, EDR is not a plug-and-play solution. Aligning default EDR policies to organizational needs and building an adequate rule-base takes time. Defining the scope of telemetry, deciding what threats to detect first, identifying what assets to protect first are challenging. 
+
 - After creating a rule base, keeping EDR configurations up-to-date against new attack techniques is not so straightforward. You have to set the right priorities. Not every attack may be relevant or pose a high-risk. Overpopulating EDRs with detection rules can create a flood of low-priority alerts, false positives, and as a result, alert fatigue. The number of alerts may go over organizational capacities, and process load may delay alert generation. 
+
 - On the flip side, not having enough detection rules will result in gaps. Avoiding alerts may mean missing some critical events. Security teams do need to strike a fine balance here.
+
 - Moreover, changes on endpoints, such as operating system and application updates, new and retired applications, and access policies impact the efficacy of the existing detection policies.
+
+
+
+
+
+# Solutions ( oku ve ödevde özetle)
+
+Planning
+
+
+### The first stage is Planning.
+In this stage, you can identify the detection gaps in your EDR by using the detection analytics function of a comprehensive BAS solution.
+How can you prioritize detection gaps in EDRs? 
+
+- BAS solutions map simulated threats to the MITRE ATT&CK framework. Simulate threats, map the created alerts to the ATT&CK techniques, and identify your weakest techniques. So, you can shortlist MITRE ATT&CK techniques that have the lowest detection rates.
+- 
+- It is also a quick win to start with logged but not alerted attacks. Simulate the threats shortlisted in the gap analysis, identify threats that we have logs but no alerts. If you have required logs for a TTP, it will be more straightforward to write alert rules for this threat. 
+
+
+
+
+Development
+
+### The second phase is Development, which includes the Design, Implementation, and Test & Validate phases.
+
+- Firstly, you should identify the logs to have the required data visibility for threats.
+
+- Then, you can start implementing the rules. 
+ -- As a quick win, you can identify built-in but not activated rules by the vendor of the EDR.
+ -- You can also utilize third-party rule libraries. For example, Picus Mitigation Library includes more than 1,000 detection rules with the relevant detailed thread information. It decreases your time-to-response, especially in outbreaks.
+ -- As another option, you can develop your own rules if you have the required resources. 
+
+- Testing and validating rules are also important to find whether the rule can detect the intended threat and whether it gives false positive or false negative results.
+ -- You can use peer or third-party reviews to validate your analytics. Of course, you can automate this test and validation face by using the Detection Analytics function of a comprehensive BAS solution.
+ -- In addition to determining false positives and false negatives, it is important to determine performance problems.
+ 
+ 
+ Breach and Attack Simulation (BAS) platforms, can help solving these problems. Picus Security has an efficient Breach and Attack Simulation platform. The Picus BAS is an end-to-end Security Control Validation Platform. Picus provides a rich threat context for cyber defense teams by giving actionable Threat Intelligence. Threats and threat groups are merging and different actor vectors occur. So updated threat intelligence is a must for an attack breach attack simulation.
+ So, identifing problems and also giving actionable insights via these threat intelligence will be more efficient.
+ 
+ Actionable alert rules and required log sources enable fast response to the detection gaps in user's environment.
+ 
+ 
+ 
+ 
+ 
+ 
 
