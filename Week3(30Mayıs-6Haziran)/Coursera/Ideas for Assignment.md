@@ -58,7 +58,7 @@ Development
  Actionable alert rules and required log sources enable fast response to the detection gaps in user's environment.
  
  
- 
+ You can validate the alert rules in your EDR and identify detection gaps with the detection analytics feature of the Picus Security Control Validation Platform.
  
  
  
