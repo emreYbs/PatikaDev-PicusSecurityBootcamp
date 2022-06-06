@@ -75,9 +75,9 @@ Development
 ## Possible Issues
 
 - High staffing requirements. Staff in SOC work overtime and this can tire them. So we need to  check SOC staffing levels in comparison to our business growth over time, and invest/train new staff when needed. Also some work can be bypassed to outsourcing.
-- Lack of skilled staff and retaining talented staff is an issue. Frequent turnover appears to be the first
-- obstacle.The average duration of employment is predominantly less than five years according to a recent SANS report I have read.
-- Too many alerts that we can’t look into (lack of correlation between alerts)
+- Lack of skilled staff and retaining talented staff is an issue. Frequent turnover appears to be the first obstacle.The average duration of employment is predominantly less than five years according to a recent SANS report I have read.
+- Too many alerts that our SIEM users can’t look into and lack of correlation among alerts can cause tiredness among our SOC staff/users. We need to combat alert fatigue to accelerate threat detection and response capabilities of our Security Operations Center. Moreover, we should reduce the burden on our staff caused by alert fatigue of SIEM tools.Their attention can be negatively affected by too many alerts when they do not provide real value and context.
+
 - Too many tools that are not integrated
 - Lack of automation and orchestration
 - Lack of enterprisewide visibility
