@@ -66,20 +66,20 @@ Development
 
 # Questions to ask/consider:
 
-Are Trends Going in the Right Direction? AI can be over-emphasized or blindly trusted. If we blindly follow trends in cybersecurity and trust 100%, then we may tend to follow a possible wrong path. We need to access the effectiveness and success of various trends.
+- Are Trends Going in the Right Direction? AI can be over-emphasized or blindly trusted. If we blindly follow trends in cybersecurity and trust 100%, then we may tend to follow a possible wrong path. We need to access the effectiveness and success of various trends.
 
-Does staffing match growth?
-Do capabilities match business need?
-Is the technology working? what’s effective?
+- Does staffing match growth?
+- Do capabilities match business need? Prior to establishing a SOC, an organization must define its cybersecurity strategy to align with current business goals and problems.
+- Is the technology working? what’s effective?
 
 ## Possible Issues
 
-High staffing requirements
-Lack of skilled staff and retaining talented staff is an issue. Frequent turnover appears to be the first
-obstacle.The average duration of employment is predominantly less than five years according to a recent SANS report I have read.
-Too many alerts that we can’t look into (lack of correlation between alerts)
-Too many tools that are not integrated
-Lack of automation and orchestration
-Lack of enterprisewide visibility
-Lack of context 
-
+- High staffing requirements
+- Lack of skilled staff and retaining talented staff is an issue. Frequent turnover appears to be the first
+- obstacle.The average duration of employment is predominantly less than five years according to a recent SANS report I have read.
+- Too many alerts that we can’t look into (lack of correlation between alerts)
+- Too many tools that are not integrated
+- Lack of automation and orchestration
+- Lack of enterprisewide visibility
+- Lack of context 
+- Lack of budgeting. A realistic model of required investment should be developed and necessary investment should be provided.
