@@ -101,7 +101,7 @@ If we do not have proper tech stack to cope with logs, proper log management, pr
 
 
 
-
+NOTE to the exam evaluator: There are some other things to consider. However, since we were supposed to write 5 at most, I did not mention them and tried to order the 5 issues according to their importance or what I think about them after watching Picus Security Purple Academy videos. If we were supposed to write 6-7 issues, then I would also mention compliance maintenance since it is also important legally because companies must follow regulatory and organizational standards when carrying out business plans and SIEM operations. One operation can be permitted in the USA but not in Europe when GDPR is taken into account.
 
 
 
