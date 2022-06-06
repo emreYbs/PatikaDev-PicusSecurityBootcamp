@@ -97,7 +97,7 @@ If we do not have proper tech stack to cope with logs, proper log management, pr
 
 
 
-- Lack of budgeting. A realistic model of required investment should be developed and necessary investment should be provided. Besides, management and SOC leads/managers
+- "Problem: Lack of budgeting or Budgets spent ineffectively" A realistic model of required investment should be developed and necessary investment should be provided. Besides, management and SOC leads/managers
 work together closely to decide how to allocate funds for cybersecurity. From the reports I have read, I can say that management tend to take recommendations
 from SOC leads/managers but frequently goes against SOC management’s recommendations. Thus this can be a issue because this can de-motivate the SOC team and users of SOC can be adversely affected as a result. In short, we need to make sure our organizational management listens to SOC users' feedbacks, suggestions so the budget is not allocated on the wrong basis. We should focus on mitigating the threats with the greatest potential for damage so budget planning has to be flexible according to necessity. To effectively protect the enterprise, SOC teams need tools that enable them to maximize the effectiveness of their limited teams and resources. Hence, budget planning should take this into account.
 
