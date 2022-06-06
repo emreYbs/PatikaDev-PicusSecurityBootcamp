@@ -74,7 +74,7 @@ Development
 
 ## Possible Issues
 
-- High staffing requirements
+- High staffing requirements. Staff in SOC work overtime and this can tire them. So we need to  check SOC staffing levels in comparison to our business growth over time, and invest/train new staff when needed. Also some work can be bypassed to outsourcing.
 - Lack of skilled staff and retaining talented staff is an issue. Frequent turnover appears to be the first
 - obstacle.The average duration of employment is predominantly less than five years according to a recent SANS report I have read.
 - Too many alerts that we can’t look into (lack of correlation between alerts)
@@ -84,7 +84,7 @@ Development
 - Lack of context 
 - Lack of budgeting. A realistic model of required investment should be developed and necessary investment should be provided. Besides, management and SOC leads/managers
 work together closely to decide how to allocate funds for cybersecurity. From the reports I have read, I can say that management tend to take recommendations
-from SOC leads/managers but frequently goes against SOC management’s recommendations. Thus this can be a issue because this can de-motivate the SOC team and users of SOC can be adversely affected as a result.
+from SOC leads/managers but frequently goes against SOC management’s recommendations. Thus this can be a issue because this can de-motivate the SOC team and users of SOC can be adversely affected as a result. In short, we need to make sure our organizational management listens to SOC users' feedbacks, suggestions.
 
 - Metrics are a critical component of the SOC’s interaction with the organization. Yet, most of the metrics used fail to effectively characterize the value the SOC provides to the business.
 - Outsourcing can be useful to overcome some of the issues that SOC users face. You can gain expert help and also by letting some of the work to oursourcing parties, it is possible to decrease the burden on our staff. Outsourcing can also be cost effective.
