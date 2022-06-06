@@ -66,7 +66,7 @@ Development
 
 # Questions to ask/consider:
 
-- Are Trends Going in the Right Direction? AI can be over-emphasized or blindly trusted. If we blindly follow trends in cybersecurity and trust 100%, then we may tend to follow a possible wrong path. We need to access the effectiveness and success of various trends.
+- Are Trends Going in the Right Direction? AI can be over-emphasized or blindly trusted. If we blindly follow trends in cybersecurity and trust 100%, then we may tend to follow a possible wrong path. We need to access the effectiveness and success of various trends. We can define and track the critical metrics to our organization and thus we can ensure that our organization are going in the right direction.
 
 - Does staffing match growth?
 - Do capabilities match business need? Prior to establishing a SOC, an organization must define its cybersecurity strategy to align with current business goals and problems.
