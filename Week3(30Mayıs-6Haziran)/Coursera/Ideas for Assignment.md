@@ -82,4 +82,9 @@ Development
 - Lack of automation and orchestration
 - Lack of enterprisewide visibility
 - Lack of context 
-- Lack of budgeting. A realistic model of required investment should be developed and necessary investment should be provided.
+- Lack of budgeting. A realistic model of required investment should be developed and necessary investment should be provided. Besides, management and SOC leads/managers
+work together closely to decide how to allocate funds for cybersecurity. From the reports I have read, I can say that management tend to take recommendations
+from SOC leads/managers but frequently goes against SOC management’s recommendations. Thus this can be a issue because this can de-motivate the SOC team and users of SOC can be adversely affected as a result.
+
+
+
