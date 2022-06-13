@@ -15,3 +15,6 @@ https://www.patika.dev
 
 There are **lovely** and **free** courses and learning paths here. You just need to set up an account and you can get certificates when you complete the courses. By the way, you can try **3 times** _in case_ you fail in the *quizzes*, _in order to be eligible for the certificate afterwards._
 
+
+
+![emreybs blog in progress](https://user-images.githubusercontent.com/59505246/173427161-70657707-e1a8-49e7-b01a-29cf58451621.png)
